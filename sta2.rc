@@ -1,0 +1,3 @@
+#include <winuser.h>
+#define ID_MANIFEST 1
+ID_MANIFEST RT_MANIFEST "sta2.exe.manifest"
